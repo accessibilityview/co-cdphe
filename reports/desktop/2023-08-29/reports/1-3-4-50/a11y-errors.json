@@ -1,0 +1,57 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-151-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,IFRAME",
+            "selector": "div.field > div.field--item > div > iframe",
+            "boundingRect": {
+              "top": 446,
+              "bottom": 1306,
+              "left": 30,
+              "right": 1320,
+              "width": 1290,
+              "height": 860
+            },
+            "snippet": "<iframe src=\"https://express.adobe.com/page/K1FEBoNMbKQaN/embed.html\" style=\"width: 100%; height: 100%; position: absolute; top: 0px; left: 0px;\">",
+            "nodeLabel": "div.field > div.field--item > div > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

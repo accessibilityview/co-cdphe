@@ -1,0 +1,110 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-199-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 619,
+              "left": 64,
+              "right": 846,
+              "width": 782,
+              "height": 33
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "What is CDPHE doing to improve Colorado?",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-200-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 2461,
+              "bottom": 2495,
+              "left": 64,
+              "right": 611,
+              "width": 547,
+              "height": 33
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "Responsibility grows here",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-201-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,4,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6.text-align-right",
+            "boundingRect": {
+              "top": 2638,
+              "bottom": 2672,
+              "left": 739,
+              "right": 1286,
+              "width": 547,
+              "height": 33
+            },
+            "snippet": "<h6 class=\"text-align-right\">",
+            "nodeLabel": "Birth, death, marriage, and adoption",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-202-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,11,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6.text-align-center",
+            "boundingRect": {
+              "top": 4989,
+              "bottom": 5023,
+              "left": 24,
+              "right": 426,
+              "width": 402,
+              "height": 33
+            },
+            "snippet": "<h6 class=\"text-align-center\">",
+            "nodeLabel": "Get help",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]

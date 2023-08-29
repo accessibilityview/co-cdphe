@@ -1,0 +1,195 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-309-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__1col > div#tab-85916",
+            "boundingRect": {
+              "top": 1895,
+              "bottom": 2334,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 439
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--bp-tabs paragraph--view-mode--default paragraph…\" id=\"tab-85916\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Webinar participation\nMeeting Materials\nPresentations\nPlanned Clean Water webin…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-valid-attr-value",
+    "title": "`[aria-*]` attributes do not have valid values",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid values. [Learn more](https://web.dev/aria-valid-attr-value/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-222-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li.active > a",
+            "boundingRect": {
+              "top": 1895,
+              "bottom": 1941,
+              "left": 30,
+              "right": 218,
+              "width": 188,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-85916-1\" aria-controls=\"Webinar participation\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Webinar participation",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Webinar participation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-223-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1895,
+              "bottom": 1941,
+              "left": 220,
+              "right": 378,
+              "width": 159,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-85916-2\" aria-controls=\"Meeting Materials\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Meeting Materials",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Meeting Materials\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-224-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,0,A",
+            "selector": "div.paragraph__column > ul.nav > li > a",
+            "boundingRect": {
+              "top": 1940,
+              "bottom": 1986,
+              "left": 30,
+              "right": 159,
+              "width": 129,
+              "height": 46
+            },
+            "snippet": "<a href=\"#tab-85916-3\" aria-controls=\"Presentations\" role=\"tab\" data-toggle=\"tab\">",
+            "nodeLabel": "Presentations",
+            "explanation": "Fix all of the following:\n  Invalid ARIA attribute value: aria-controls=\"Presentations\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-310-H4",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h4",
+            "boundingRect": {
+              "top": 1998,
+              "bottom": 2048,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 50
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Planned Clean Water webinar dates for 2023",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

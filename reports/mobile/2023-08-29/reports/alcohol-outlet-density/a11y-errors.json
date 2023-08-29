@@ -1,0 +1,57 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "19-238-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,P,0,IFRAME",
+            "selector": "div.field > div.field--item > p > iframe",
+            "boundingRect": {
+              "top": 500,
+              "bottom": 698,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 198
+            },
+            "snippet": "<iframe allow=\"autoplay\" height=\"480\" src=\"https://storymaps.arcgis.com/stories/b047e775bbd64d5e8a549b4f2ba84bf6\" width=\"100%\">",
+            "nodeLabel": "div.field > div.field--item > p > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

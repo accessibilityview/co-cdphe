@@ -1,0 +1,147 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-433-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,5,H6",
+            "selector": "article.page > div > div.field > h6",
+            "boundingRect": {
+              "top": 1417,
+              "bottom": 1434,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 17
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "2022 PS Memos",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-325-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,36,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 3753,
+              "bottom": 3772,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"https://oitco.hylandcloud.com/CDPHERMPop/docpop/docpop.aspx?clienttype=htm…\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-344-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,50,H6,3,SPAN,0,SPAN,0,A",
+            "selector": "h6 > span > span > a",
+            "boundingRect": {
+              "top": 4873,
+              "bottom": 4893,
+              "left": 146,
+              "right": 146,
+              "width": 0,
+              "height": 20
+            },
+            "snippet": "<a href=\"/sites/cdphe/files/AP_Memo-96-08-Guidance-on-Prevention-of-Significant-Det…\">",
+            "nodeLabel": "h6 > span > span > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-350-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,53,H6,3,SPAN,0,SPAN,0,A",
+            "selector": "h6 > span > span > a",
+            "boundingRect": {
+              "top": 5262,
+              "bottom": 5282,
+              "left": 145,
+              "right": 145,
+              "width": 0,
+              "height": 20
+            },
+            "snippet": "<a href=\"/sites/cdphe/files/AP_Memo-95-13-Grouped-Air-Pollutant-Emission-Notice-%28…\">",
+            "nodeLabel": "h6 > span > span > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]

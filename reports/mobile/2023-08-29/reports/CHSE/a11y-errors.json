@@ -1,0 +1,127 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "39-292-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,7,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.field--item > iframe",
+            "boundingRect": {
+              "top": 5289,
+              "bottom": 5487,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 198
+            },
+            "snippet": "<iframe frameborder=\"0\" height=\"600\" scrolling=\"no\" src=\"https://calendar.google.com/calendar/embed?src=state.co.us_dm16e7t77qr5sa8…\" style=\"border: 0\" width=\"800\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.field--item > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "39-293-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,9,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.field--item > iframe",
+            "boundingRect": {
+              "top": 5730,
+              "bottom": 5928,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 198
+            },
+            "snippet": "<iframe frameborder=\"0\" height=\"672\" name=\"Oversight Entity Seats and Members\" scrolling=\"no\" src=\"https://drive.google.com/file/d/11C0FUqSjT5S35LbiUZUB-XIks5VyO3eE/preview\" width=\"896\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.field--item > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "39-294-H5",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,4,DIV,0,MAIN,0,DIV,1,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,5,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,H5",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h5",
+            "boundingRect": {
+              "top": 4300,
+              "bottom": 4322,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 22
+            },
+            "snippet": "<h5>",
+            "nodeLabel": "Meeting materials",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

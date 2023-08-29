@@ -1,0 +1,110 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-259-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,2,H6",
+            "selector": "article.page > div > div.field > h6",
+            "boundingRect": {
+              "top": 795,
+              "bottom": 795,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 0
+            },
+            "snippet": "<h6 style=\"margin-top:11px; margin-bottom:11px\">",
+            "nodeLabel": "article.page > div > div.field > h6",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-260-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,7,H6",
+            "selector": "article.page > div > div.field > h6",
+            "boundingRect": {
+              "top": 3240,
+              "bottom": 3240,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 0
+            },
+            "snippet": "<h6 style=\"margin-top:11px; margin-bottom:11px\">",
+            "nodeLabel": "article.page > div > div.field > h6",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-261-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,20,H6",
+            "selector": "article.page > div > div.field > h6",
+            "boundingRect": {
+              "top": 4572,
+              "bottom": 4572,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 0
+            },
+            "snippet": "<h6 style=\"margin-top:11px; margin-bottom:11px\">",
+            "nodeLabel": "article.page > div > div.field > h6",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-262-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,23,H6",
+            "selector": "article.page > div > div.field > h6",
+            "boundingRect": {
+              "top": 4762,
+              "bottom": 4762,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 0
+            },
+            "snippet": "<h6 style=\"margin-top:11px; margin-bottom:11px\">",
+            "nodeLabel": "article.page > div > div.field > h6",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]

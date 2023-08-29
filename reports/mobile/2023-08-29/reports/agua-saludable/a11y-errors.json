@@ -1,0 +1,146 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-286-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6.text-align-right",
+            "boundingRect": {
+              "top": 892,
+              "bottom": 909,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 17
+            },
+            "snippet": "<h6 class=\"text-align-right\">",
+            "nodeLabel": "In English/en inglés",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-287-H5",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H5",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h5",
+            "boundingRect": {
+              "top": 1754,
+              "bottom": 1821,
+              "left": 64,
+              "right": 348,
+              "width": 284,
+              "height": 67
+            },
+            "snippet": "<h5>",
+            "nodeLabel": "¿En qué consiste Agua Saludable para Protección de la Infancia?",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-288-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,P,0,IMG",
+            "selector": "div.paragraph__column > div.field > p > img",
+            "boundingRect": {
+              "top": 1184,
+              "bottom": 1423,
+              "left": 39,
+              "right": 403,
+              "width": 364,
+              "height": 239
+            },
+            "snippet": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWwAAADvCAYAAADWzO57AAAgAElE…\">",
+            "nodeLabel": "div.paragraph__column > div.field > p > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-289-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,P,1,IMG",
+            "selector": "div.paragraph__column > div.field > p > img",
+            "boundingRect": {
+              "top": 1447,
+              "bottom": 1671,
+              "left": 39,
+              "right": 548,
+              "width": 509,
+              "height": 224
+            },
+            "snippet": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAf0AAADgCAYAAAAJ8795AAAgAElE…\">",
+            "nodeLabel": "div.paragraph__column > div.field > p > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

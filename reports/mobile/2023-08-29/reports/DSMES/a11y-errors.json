@@ -1,0 +1,146 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "23-302-IFRAME",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,IFRAME",
+            "selector": "div.paragraph__column > div.field > div.field--item > iframe",
+            "boundingRect": {
+              "top": 2559,
+              "bottom": 2757,
+              "left": 30,
+              "right": 382,
+              "width": 352,
+              "height": 198
+            },
+            "snippet": "<iframe src=\"https://drive.google.com/file/d/1CiJYKw4F6kbDFPIJGCK1kdM62SfGXkH8/preview\" width=\"100%\" height=\"350\">",
+            "nodeLabel": "div.paragraph__column > div.field > div.field--item > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "23-303-H3",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h3",
+            "boundingRect": {
+              "top": 2061,
+              "bottom": 2091,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 30
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "What is DSMES?",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "23-304-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,3,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 3103,
+              "bottom": 3120,
+              "left": 64,
+              "right": 348,
+              "width": 284,
+              "height": 17
+            },
+            "snippet": "<h6>",
+            "nodeLabel": " ",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "23-305-H4",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,4,DIV,0,DIV,0,DIV,1,DIV,0,DIV,3,DIV,0,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h4",
+            "boundingRect": {
+              "top": 4875,
+              "bottom": 4900,
+              "left": 64,
+              "right": 348,
+              "width": 284,
+              "height": 25
+            },
+            "snippet": "<h4>",
+            "nodeLabel": " ",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]

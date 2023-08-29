@@ -1,0 +1,242 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-316-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 1316,
+              "bottom": 1434,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 118
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "A hospital medical surge presents unique challenges and may arise in a variety …",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-317-H6",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 2401,
+              "bottom": 2418,
+              "left": 39,
+              "right": 373,
+              "width": 334,
+              "height": 17
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "Step one: Watch the webinars below.",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-234-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,9,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 4891,
+              "bottom": 4911,
+              "left": 39,
+              "right": 60,
+              "width": 21,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1p1GCr5z8oYjXJkIsPxoEXVElSDdwX7fd?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-236-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5267,
+              "bottom": 5287,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1jNaxJeIh88KdGUQS8Nb8JmteM1a43_mn?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-238-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5332,
+              "bottom": 5352,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1DAnuaHVPN9xxetjErPEot9jWU0Y8lmB-?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-240-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5398,
+              "bottom": 5418,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1FV6RHaOCzHp3kgLMUhM4o965ZHwLke7Q?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-242-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5464,
+              "bottom": 5484,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1v9au3V3j9uafrS-BSNDZLDfTHWmP9L_l?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-244-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5529,
+              "bottom": 5549,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/112CDh1Jzg-JSPeYun1U1jmq0lpPMGpHf?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-246-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,10,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,2,H6,0,A",
+            "selector": "div.paragraph__column > div.field > h6 > a",
+            "boundingRect": {
+              "top": 5595,
+              "bottom": 5615,
+              "left": 39,
+              "right": 58,
+              "width": 19,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1HXHFXTmTnodskoOZ90pGuCIKkgyH2BE3?u…\">",
+            "nodeLabel": "div.paragraph__column > div.field > h6 > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 7
+  }
+]

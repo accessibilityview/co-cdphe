@@ -1,0 +1,329 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-251-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,0,LI,0,SPAN,0,SPAN,0,A",
+            "selector": "li > span > span > a",
+            "boundingRect": {
+              "top": 1165,
+              "bottom": 1183,
+              "left": 55,
+              "right": 257,
+              "width": 202,
+              "height": 19
+            },
+            "snippet": "<a href=\"https://drive.google.com/drive/folders/1Beko4LVl8xCKG1WjGQirfSMsJhqIw7bd\" style=\"color:#0782c1\" target=\"_blank\">",
+            "nodeLabel": "Influenza Business toolkit\n(opens in new window)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-324-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,0,LI,1,UL,0,LI,0,A,0,SPAN,0,SPAN",
+            "selector": "li > a > span > span",
+            "boundingRect": {
+              "top": 1237,
+              "bottom": 1327,
+              "left": 95,
+              "right": 293,
+              "width": 198,
+              "height": 91
+            },
+            "snippet": "<span style=\"font-family:&quot;trebuchet ms&quot;, helvetica, sans-serif\">",
+            "nodeLabel": "Tri-County Health Department’s Business Re-Opening Task Force Healthy Staffing …",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-253-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,0,LI,1,UL,0,LI,1,UL,0,LI,0,FONT,1,SPAN,0,A",
+            "selector": "li > font > span > a",
+            "boundingRect": {
+              "top": 1333,
+              "bottom": 1399,
+              "left": 135,
+              "right": 295,
+              "width": 160,
+              "height": 67
+            },
+            "snippet": "<a href=\"https://drive.google.com/file/d/1rFuo1rWmCwR-UGRNsiZLiFhXVTqbh1zd/view?usp…\" style=\"color:#0782c1\" target=\"_blank\">",
+            "nodeLabel": "See information about upcoming tri-county closure.\n(opens in new window)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-254-A",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,0,LI,1,UL,1,LI,0,FONT,1,SPAN,0,A",
+            "selector": "li > font > span > a",
+            "boundingRect": {
+              "top": 1405,
+              "bottom": 1447,
+              "left": 95,
+              "right": 275,
+              "width": 180,
+              "height": 43
+            },
+            "snippet": "<a href=\"https://drive.google.com/file/d/1rFuo1rWmCwR-UGRNsiZLiFhXVTqbh1zd/view?usp…\" style=\"color:#0782c1\" target=\"_blank\">",
+            "nodeLabel": "Influenza Mitigation With Business Community\n(opens in new window)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-325-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,1,LI,0,A,0,SPAN,0,SPAN",
+            "selector": "li > a > span > span",
+            "boundingRect": {
+              "top": 1477,
+              "bottom": 1543,
+              "left": 55,
+              "right": 342,
+              "width": 287,
+              "height": 67
+            },
+            "snippet": "<span style=\"font-family:&quot;trebuchet ms&quot;, helvetica, sans-serif\">",
+            "nodeLabel": "Colorado Pediatric Provider Toolkit: Caring for Children During the COVID-19 Pa…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-326-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,2,LI,0,A,0,SPAN,0,SPAN",
+            "selector": "li > a > span > span",
+            "boundingRect": {
+              "top": 1549,
+              "bottom": 1567,
+              "left": 55,
+              "right": 356,
+              "width": 301,
+              "height": 19
+            },
+            "snippet": "<span style=\"font-family:&quot;trebuchet ms&quot;, helvetica, sans-serif\">",
+            "nodeLabel": "Off-Site Vaccination Operational Playbook",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #0782c1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-327-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,UL,3,LI,0,SPAN,0,A,0,SPAN",
+            "selector": "li > span > a > span",
+            "boundingRect": {
+              "top": 1592,
+              "bottom": 1635,
+              "left": 55,
+              "right": 328,
+              "width": 273,
+              "height": 43
+            },
+            "snippet": "<span style=\"color:#328cc1;\">",
+            "nodeLabel": "COVID-19 Healthcare Provider Vaccine Information Toolkit ",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.71 (foreground color: #328cc1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "17-323-MAIN",
+                  "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN",
+                  "selector": "div.site-wrapper > div.dialog-off-canvas-main-canvas > div#xyBackground > main#main-content",
+                  "boundingRect": {
+                    "top": 332,
+                    "bottom": 1686,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 1354
+                  },
+                  "snippet": "<main id=\"main-content\" tabindex=\"-1\" class=\"main-container container js-quickedit-main-content\">",
+                  "nodeLabel": "Home  Immunization resources during COVID-19\nImmunization resources during COVI…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 7
+  }
+]

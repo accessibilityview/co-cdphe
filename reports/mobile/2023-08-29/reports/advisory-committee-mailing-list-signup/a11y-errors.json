@@ -1,0 +1,54 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-248-INPUT",
+            "path": "1,HTML,1,BODY,0,DIV,2,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,DIV,0,FORM,0,DIV,9,DIV,0,INPUT",
+            "selector": "form#mc-embedded-subscribe-form > div#mc_embed_signup_scroll > div.clear > input#mc-embedded-subscribe",
+            "boundingRect": {
+              "top": 1077,
+              "bottom": 1109,
+              "left": 41,
+              "right": 151,
+              "width": 111,
+              "height": 32
+            },
+            "snippet": "<input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\">",
+            "nodeLabel": "form#mc-embedded-subscribe-form > div#mc_embed_signup_scroll > div.clear > input#mc-embedded-subscribe",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.32 (foreground color: #ffffff, background color: #aaaaaa, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
