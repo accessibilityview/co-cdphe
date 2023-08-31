@@ -1,0 +1,3580 @@
+[
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "1-3-4-50",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2012-nonpoint-source-program-management-plan",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2014-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2016-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2018-annual-facility-report-status-tracking",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2017-annual-facility-report-status-tracking",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2017-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2018-ldar-annual-reports-regulation-7-section-xii-xvii-and-xviii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2019-equity-forum-program-brochure-and-materials",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2018-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2019-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2020-and-2021-data-call-files",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2020-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2021-rocky-mountain-early-childhood-conference",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2021-ldar-annual-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2022-ldar-annual-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2022-clean-fleet-enterprise-fee-rule",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "303d-data-submission-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2023-clean-fleet-enterprise-fee-rule",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "40-hour-administrator-training-requirements",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "401-Certification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "40-hour-administrator-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "BabyandYou",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "AirToxicsActSp",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "BebeyTu",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "CHSE",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "CACFP",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2012-nonpoint-source-program-management-plan",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "1-3-4-50",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2016-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2017-annual-facility-report-status-tracking",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2017-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2018-ldar-annual-reports-regulation-7-section-xii-xvii-and-xviii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2014-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2018-annual-facility-report-status-tracking",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2019-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2019-equity-forum-program-brochure-and-materials",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2018-medical-marijuana-registry-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2020-and-2021-data-call-files",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2020-ldar-annual-reports-regulation-7-section-xvii",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2022-ldar-annual-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2021-ldar-annual-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2021-rocky-mountain-early-childhood-conference",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2022-clean-fleet-enterprise-fee-rule",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2023-clean-fleet-enterprise-fee-rule",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "303d-data-submission-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "40-hour-administrator-training-requirements",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "40-hour-administrator-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "401-Certification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "APCD",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "BabyandYou",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "BebeyTu",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "AirToxicsActSp",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CACFP",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "DSMES-Toolkit",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "DSMES",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Early-Childhood-HEAL",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CHSE",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "HAI-committee-minutes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "General-Construction-Permit-COR400000",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "OWTS",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "RFA-41534",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "RFA-40886",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Immunization-resources",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 7
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "TB-training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "School-child-care-data-reporting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Regulation_11_Direct_Potable_Reuse",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Reg11_Storage_tank_cross-connection-control",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "TEEO",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "WQ_Planning_Targets_and_PELs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Water_quality_Commerce_and_industry_permits",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "Water-Quality-Control-Division-Permits-Webinar",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-valid-attr-value",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "a-to-z-index",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-office-health-equity",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cfps",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-the-board-of-health",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accessibility",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-the-solid-and-hazardous-waste-commission",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accounting-business",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "acerca-de-la-oficina-de-equidad-de-la-salud",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "acute-treatment-unit-centers-provider-information",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "acuerdo-de-suncor",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "actualizaciones-de-colorado-enviroscreen",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "acute-treatment-units-consumer-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "acute-treatment-units",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "adoption-information",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "advisory-committee-mailing-list-signup",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "adrd",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "afm",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aftermarketcats",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "advance-care-planning",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aftermarket-catalytic-converters",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "agua-saludable",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions-from-business-and-industry",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-monitoring-data-near-suncor-refinery",
+    "lighthouseErrors": [
+      {
+        "id": "list",
+        "wcag": [
+          "1.3.1"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "list",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "agua-saludable-para-proteccion-de-la-infancia-en-hogares-de-cuidado-infantil-familiar",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-permits-for-amine-sweetening-units",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-mailing-lists",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-permits-for-natural-gas-engines",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution-contacts",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-permitting-guidance-memos",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 6
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution-control-division-minor-source-permit-modeling-information-links",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution-control-division-whats-new",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-quality-enterprise",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-quality-public-information",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics-act",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "alcohol-outlet-density",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "alcohol",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "alternate-operating-scenario-aos-for-engines",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "ambulatory-surgical-centers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "ambulatory-surgical-centers-provider-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "ambulatory-surgical-centers-consumer-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "ammonia-reduction",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animas-river-spill",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animas-river-spill-archive",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "antibiotic-stewardship",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "antimicrobial-stewardship-endeavor-case",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "antimicrobial-stewardship-in-long-term-care-facilities",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apen-and-permitting-guidance-from-sbap",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apmpls",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "antimicrobial-stewardship",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apply-by-mail-medical-marijuana",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apply-colorado-medical-marijuana-card",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "application-rejection-frequently-asked-questions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apply-ems-scope-of-practice-waiver",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apply-for-emission-reduction-credits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apply-for-loan-repayment",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-about-the-commission",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-air-quality-plans",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-commissioner-profiles",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-annual-report-to-the-public",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-contact-the-commission-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-current-and-recent-commission-hearings",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 12
+      }
+    ],
+    "lighthouseErrorCount": 12,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 12
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 12
+      }
+    ],
+    "wcagErrorCount": 24
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-meeting-information-and-commission-calendar",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-public-participation-and-hearing-guidance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-regulations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqcc-statutes-and-regulations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "artificial-tanning",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "aqua-talk",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-advisory-committee",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-compliance-assistance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-education-for-residence",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-provider-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-residence-consumer-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-residence-fee-summary",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-residences",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assisted-living-residence-safety-stakeholder-group-sb-22-154",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "attributes-of-a-sexually-healthy-person",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "autism-spectrum-disorder-asd",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "automobile-inspection-and-readjustment-air-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "bacteria-and-virus-testing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "bedbug-infestations",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "bccsp",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "behavioral-health-entities",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "behavioral-health-entity-consumer-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "behavioral-health-entity-implementation-and-advisory-committee",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "behavioral-health-entity-provider-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "behavioral-risk-factor-surveillance-system-and-child-health-survey-contact",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "APCD/Outreach",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "APCD/Outreach",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CLL/2012-documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CLL/2015-documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CLL/2017-documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CLL/cag",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "CLL/historical-documents",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdphe/contact-us",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdphe/leadership",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdphe/politica-y-recursos-de-no-discriminacion",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdphe/nondiscrimination-policy-and-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "adoption/colorado-voluntary-adoption-registry",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "adoption/family-history-research",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions/apply-for-emission-reduction-credits-erc",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions/change-ownership-of-emission-reduction-credits-erc",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions/emission-reduction-credit-erc-fact-sheet",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions/emissions-and-permitting-fees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-emissions/emission-reduction-credits-ercs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution/building-performance-standard-rule",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution/HFC-phase-out",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution/recovered-methane",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-pollution/air-pollution-control-division-topics",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-quality/your-health",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-quality/community-studies",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "all-regulations/regulations-adopted-by-the-board-of-health",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "all-regulations/hazardous-waste-regulations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "all-regulations/solid-waste-regulations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/monitoring",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/fenceline-and-community-monitoring",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/reporting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/stationary",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/trends",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "annual-departmental-regulatory-documents/early-stakeholder-engagement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/malaria",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/rabies",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/q-fever",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/tick-borne-diseases",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/west-nile-virus",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/air-permits-for-glycol-dehydrators",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/air-permits-for-hydrocarbon-liquid-loadout",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/apen-supplement-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/do-you-need-an-apen-or-air-permit",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/get-a-pile-smoke-permit",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "approved-educational-opportunities-for-first-time-home-care-agency-administrators/managers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "background/colorados-ems-data-collection",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "background/colorados-emergency-medical-services-system-and-ems-providers-scopes-of-practice",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "babies/safe-sleep-for-your-baby",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "background/colorados-waiver-process",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "background/national-ketamine-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdphe/emergency-preparedness-and-response/hospital-medical-surge",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 7
+      }
+    ],
+    "lighthouseErrorCount": 9,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 7
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 7
+      }
+    ],
+    "wcagErrorCount": 14
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/reporting/data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "air-toxics/reporting/guidance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/rabies/rabies-data",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/rabies/rabies-in-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/west-nile-virus/west-nile-virus-and-your-health",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "animal-related-diseases/west-nile-virus/west-nile-virus-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/about-title-v-operating-permits/title-v-operating-permits-company-index",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/get-a-broadcast-smoke-permit/photo-guides-for-wildland-fuel-loads",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/open-burn-small-pile/slash-permits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/smoke-management-permits-for-larger-projects/smoke-management-permit-fees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/title-v-operating-permits/about-title-v-operating-permits",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/smoke-management-permits/smoke-management-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdphe",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "apens-and-air-permits/smoke-management-permits/smoke-management-program-updates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
